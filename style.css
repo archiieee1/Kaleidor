@@ -391,7 +391,7 @@
     height: 525px;
     width: 400px;
     border-radius: 4px;
-    background-image: url('/images/jewellery-design-sketch.jpg');
+    background-image: url('Kaleidor/images/jewellery-design-sketch.jpg');
     position: relative;
     color: #050000;
   }
@@ -401,7 +401,7 @@
   }
   
   .services__card:nth-child(2) {
-    background-image: url('/images/Glam-fashion-dress-illustration.jpg');
+    background-image: url('Kaleidor/images/Glam-fashion-dress-illustration.jpg');
   }
   
   .services__card h2 {
