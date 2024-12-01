@@ -391,7 +391,8 @@
     height: 525px;
     width: 400px;
     border-radius: 4px;
-    background-image: url('jewellery-design-sketch.jpg');
+    /*background-image: url('jewellery-design-sketch.jpg');*/
+      <img id="main__img" src='jewellery-design-sketch.jpg' height="50" width="50">
     position: relative;
     color: #050000;
   }
