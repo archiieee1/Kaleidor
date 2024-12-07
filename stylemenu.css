@@ -76,3 +76,20 @@ body {
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+
+#text-section {
+    display: flex;
+    flex-direction: column; /* Stack the elements vertically */
+    gap: 10px; /* Add space between the textarea and the button */
+}
+
+#ideaText {
+    width: 100%; /* Make the textarea fill the width of the section */
+    max-width: 600px; /* Optional: Set a maximum width for the textarea */
+}
+
+#submitText {
+    width: 90px;
+    font-size: 16px; /* Adjust button text size */
+    cursor: pointer; /* Add a pointer cursor on hover */
+}
