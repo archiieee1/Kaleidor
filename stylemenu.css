@@ -3,6 +3,8 @@ body {
     margin: 0px;
     padding: 0px;
     background-image: url('menu.png');
+    background-size: 1540px 725px;
+    background-repeat: no-repeat;
 }
 
 .container {
